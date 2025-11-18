@@ -1,0 +1,11 @@
+campaign_id,campaign_name,channel,objective,launch_date,audience_size,budget_rm
+201,CEE_01,App Push,Upsell,2025-07-01,5111,131428
+202,CEE_02,WhatsApp,Cross-Sell,2025-07-08,41249,40255
+203,CEE_03,App Push,Retention,2025-07-15,22747,16648
+204,CEE_04,App Push,Cross-Sell,2025-07-22,40662,33728
+205,CEE_05,Email,Upsell,2025-07-29,8325,93079
+206,CEE_06,App Push,Awareness,2025-08-05,36140,134777
+207,CEE_07,App Push,Cross-Sell,2025-08-12,19944,14195
+208,CEE_08,WhatsApp,Retention,2025-08-19,22476,12428
+209,CEE_09,App Push,Upsell,2025-08-26,12985,18028
+210,CEE_10,WhatsApp,Retention,2025-09-02,31626,144324
